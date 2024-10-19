@@ -1,6 +1,6 @@
 package com.trailblazers.sentimentalanalysis.config;
 
-import com.trailblazers.sentimentalanalysis.service.JwtService;
+import com.trailblazers.sentimentalanalysis.service.serviceImpl.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

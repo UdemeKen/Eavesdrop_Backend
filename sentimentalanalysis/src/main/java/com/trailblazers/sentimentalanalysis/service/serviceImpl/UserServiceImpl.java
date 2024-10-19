@@ -11,7 +11,6 @@ import com.trailblazers.sentimentalanalysis.model.User;
 import com.trailblazers.sentimentalanalysis.repository.VerificationRepository;
 import com.trailblazers.sentimentalanalysis.repository.UserRepository;
 import com.trailblazers.sentimentalanalysis.service.EmailService;
-import com.trailblazers.sentimentalanalysis.service.JwtService;
 import com.trailblazers.sentimentalanalysis.service.UserService;
 import com.trailblazers.sentimentalanalysis.utils.ApplicationUtil;
 import com.trailblazers.sentimentalanalysis.utils.BaseResponseUtil;

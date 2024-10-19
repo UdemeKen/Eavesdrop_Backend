@@ -9,6 +9,6 @@ public class EmailUtil {
     }
 
     private static String getVerificationUrl(String host, String token) {
-        return host + "/api/v1/verification/verify?token=" + token;
+        return host + "/api/verification/verify?token=" + token;
     }
 }

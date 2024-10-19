@@ -1,4 +1,4 @@
-package com.trailblazers.sentimentalanalysis.service;
+package com.trailblazers.sentimentalanalysis.service.serviceImpl;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

@@ -15,7 +15,7 @@ import java.util.Map;
 
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("/api/v1/verification")
+@RequestMapping("/api/verification")
 public class EmailVerificationController {
 
     private final UserService userService;
